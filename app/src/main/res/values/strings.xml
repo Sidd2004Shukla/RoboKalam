@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Robokalam</string>
+    <string name="app_tagline">Literature of Technologies</string>
+    <string name="login_title">Welcome to Robokalam</string>
+    <string name="email_hint">Enter your email</string>
+    <string name="email_error">Please enter a valid email address</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="password_error">Password must be at least 6 characters</string>
+    <string name="continue_button">Continue</string>
+    <string name="dashboard_welcome">Welcome to the Future of Education!</string>
+    <string name="portfolio_title">Portfolio</string>
+    <string name="quote_title">Quote of the Day</string>
+    <string name="about_title">About Robokalam</string>
+    <string name="about_content">ROBOKALAM is a 21st Century Edutech company, which focuses on Gamified education solutions, covering technical Education and doing Research &amp; development in latest technologies like AI, IoT, Coding, Robotics, etc. We provide Workshops, Training Certifications, DIY (Do It Yourself) Kits to institutes all around the world. The current training system provides a hands-on experience and exposure in the latest technologies to the students. Apart from this, we have organized technical and student centric Outreach Programs in Government Institutions. Every Year, we used to organize our own well reputed fest named SKOOL ENGINE in association with Samaritans Stand Up Organization. We have been successfully organizing the annual editions of student innovation platform SKOOL ENGINE since 2015.</string>
+    <string name="name_hint">Full Name</string>
+    <string name="college_hint">College/University</string>
+    <string name="skills_hint">Skills (comma separated)</string>
+    <string name="project_title_hint">Project Title</string>
+    <string name="project_description_hint">Project Description</string>
+    <string name="save_button">Save</string>
+    <string name="home">Home</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="quote">Quote</string>
+    <string name="about">About</string>
+    <string name="no_portfolios">No portfolios yet. Create one!</string>
+</resources>

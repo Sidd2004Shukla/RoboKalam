@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Robokalam" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/robokalam_blue</item>
+        <item name="android:colorPrimaryDark">@color/robokalam_blue</item>
+        <item name="android:colorAccent">@color/robokalam_green</item>
+        <item name="android:statusBarColor">@color/robokalam_blue</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
